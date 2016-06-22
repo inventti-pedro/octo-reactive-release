@@ -4,3 +4,5 @@
 - Versao 16.5.1.4
 - Versao 16.5.1.5
 - Versao 16.5.1.6
+
+- Versao 16.5.1.7
